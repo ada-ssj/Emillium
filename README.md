@@ -29,17 +29,17 @@
   <img src="docs/mesures.png" width="880" alt="Emillium mesurant un asteroide en una sèrie de fotos">
 </p>
 
-**Emillium** és un programa d'escriptori, lleuger i en català i castellà, per mesurar la posició de
-les estrelles en fotos **FITS** amb **precisió de centèsimes de píxel**: obres una foto (o una sèrie),
-fas clic a les estrelles i ho tens tot en un Excel, amb la seva incertesa, magnitud i coordenades.
+**Emillium** és un programa d'escriptori, lleuger en català i castellà, per mesurar la posició de
+les estrelles en fotos **FITS** amb **precisió de centèsimes de píxel**: obres una foto (o una sèrie de fotos),
+fas clic a les estrelles i pots exportar tot en un Excel, amb la seva incertesa, magnitud i coordenades.
 
-Està pensat per a **astrònoms aficionats** i per a **treballs escolars** (com un *treball de recerca*):
+Està pensat per a **astrònoms aficionats**, per a **treballs escolars** o **activitats educatives**:
 moviments propis, estrelles dobles, satèl·lits de Júpiter, seguiment d'asteroides i cometes,
 estrelles variables...
 
 > **Lleuger** — un sol `.exe` de ~25 MB, sense instal·lar res (des del codi només cal `numpy`).<br>
 > **Privat** — funciona sense internet i no envia cap dada.<br>
-> **Obert i explicat** — tot (lector FITS, centroide, coordenades, Excel...) està programat a mà a
+> **Obert i explicat** — tot (lector FITS, centroide, coordenades, Excel...) està programat a
 > [`codigo/Emillium.py`](codigo/Emillium.py) i comentat pas a pas.
 
 ---
@@ -66,7 +66,7 @@ subpíxel; la diferència és tot el que hi ha al voltant.
 
 - **Complete Edition (v1.4)** — per a astrònoms aficionats: incerteses, AR/Dec, temps, fotometria,
   sèries de fotos, fitxers `.fz` i informes per al MPC. És la que es descriu en aquest README.
-- **Edició Lite (v1.3)** — la versió senzilla, pensada per a treballs escolars: obres una foto, fas clic
+- **Edició Lite (v1.3)** — la versió senzilla, pensada per a activitats educatives: obres una foto, fas clic
   a les estrelles i obtens les seves coordenades **X i Y en píxels** i el flux. Menys columnes i menys
   opcions, per no distreure.
 
@@ -87,7 +87,7 @@ subpíxel; la diferència és tot el que hi ha al voltant.
 | Protecció contra fitxers FITS manipulats | | ✓ |
 
 **Quina triar?** Si només necessites posicions en píxels per a un treball o una pràctica, la **Lite**.
-Si fas astrometria o fotometria de debò (asteroides, estrelles variables, sèries de fotos), la **Complete**.
+Si fas astrometria o fotometria (asteroides, estrelles variables, sèries de fotos), la **Complete**.
 
 ---
 
@@ -326,7 +326,7 @@ L'`Emillium.exe` apareix a `codigo/dist/`.
 
 ## Autors i llicència
 
-Fet per **Plutarco Martínez** i **Emilio Ruiz**, amb l'assistència de **Claude Code**.
+Fet per **Plutarco Martínez** i **Emilio Ruiz**.
 
 Distribuït sota la [llicència MIT](LICENSE): el pots fer servir, modificar i compartir lliurement,
 mantenint l'avís de llicència.
@@ -366,11 +366,11 @@ mantenint l'avís de llicència.
   <img src="docs/mesures.png" width="880" alt="Emillium midiendo un asteroide en una serie de fotos">
 </p>
 
-**Emillium** es un programa de escritorio, ligero y en catalán y castellano, para medir la posición de
-las estrellas en fotos **FITS** con **precisión de centésimas de píxel**: abres una foto (o una serie),
-haces clic en las estrellas y lo tienes todo en un Excel, con su incertidumbre, magnitud y coordenadas.
+**Emillium** es un programa de escritorio, ligero en catalán y castellano, para medir la posición de
+las estrellas en fotos **FITS** con **precisión de centésimas de píxel**: abres una foto (o una serie de fotos),
+haces clic en las estrellas y lo exportas todo en un Excel, con su incertidumbre, magnitud y coordenadas.
 
-Está pensado para **astrónomos aficionados** y para **trabajos escolares** (como un *treball de recerca*):
+Está pensado para **astrónomos aficionados**, para **trabajos escolares** o **actividades educativas**:
 movimientos propios, estrellas dobles, satélites de Júpiter, seguimiento de asteroides y cometas,
 estrellas variables...
 
@@ -398,12 +398,12 @@ estrellas variables...
 
 ## Dos ediciones: Complete y Lite
 
-Emillium se distribuye en dos ediciones. Las dos miden las estrellas con el mismo centroide
+Emillium se divide en dos ediciones. Las dos miden las estrellas con el mismo centroide
 subpíxel; la diferencia es todo lo que hay alrededor.
 
 - **Complete Edition (v1.4)** — para astrónomos aficionados: incertidumbres, AR/Dec, tiempo, fotometría,
   series de fotos, archivos `.fz` e informes para el MPC. Es la que se describe en este README.
-- **Edición Lite (v1.3)** — la versión sencilla, pensada para trabajos escolares: abres una foto, haces clic
+- **Edición Lite (v1.3)** — la versión sencilla, pensada para actividades educativas: abres una foto, haces clic
   en las estrellas y obtienes sus coordenadas **X e Y en píxeles** y el flujo. Menos columnas y menos
   opciones, para no distraer.
 
@@ -424,7 +424,7 @@ subpíxel; la diferencia es todo lo que hay alrededor.
 | Protección contra archivos FITS manipulados | | ✓ |
 
 **¿Cuál elegir?** Si solo necesitas posiciones en píxeles para un trabajo o una práctica, la **Lite**.
-Si haces astrometría o fotometría de verdad (asteroides, estrellas variables, series de fotos), la **Complete**.
+Si haces astrometría o fotometría (asteroides, estrellas variables, series de fotos), la **Complete**.
 
 ---
 
@@ -665,7 +665,7 @@ El `Emillium.exe` aparece en `codigo/dist/`.
 
 ## Autores y licencia
 
-Hecho por **Plutarco Martínez** y **Emilio Ruiz**, con la asistencia de **Claude Code**.
+Hecho por **Plutarco Martínez** y **Emilio Ruiz**.
 
 Distribuido bajo la [licencia MIT](LICENSE): puedes usarlo, modificarlo y compartirlo libremente,
 manteniendo el aviso de licencia.
