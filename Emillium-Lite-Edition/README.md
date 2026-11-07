@@ -208,6 +208,7 @@ En canviar una opció, la mesura seleccionada (o l'última) es torna a calcular 
 <details>
 <summary><b>Resum del mètode</b> (tot està explicat també al codi)</summary>
 
+
 1. Es busquen els **pics** (píxels més brillants que els seus 8 veïns) que destaquen sobre el soroll a
    prop del clic, i es tria **el més proper al clic**. Així una estrella brillant del costat no «roba»
    el clic a una de feble.
