@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller (el .exe es publica a «Releases», no al repositori)
+build/
+dist/
+*.exe
+
+# Fitxers de prova i resultats
+*.xlsx
+*.csv
+*.fits
+*.fit
+*.fts
