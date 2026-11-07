@@ -37,7 +37,7 @@ Està pensat per a **astrònoms aficionats**, per a **treballs escolars** o **ac
 moviments propis, estrelles dobles, satèl·lits de Júpiter, seguiment d'asteroides i cometes,
 estrelles variables...
 
-> **Lleuger** — un sol `.exe` de ~25 MB, sense instal·lar res (des del codi només cal `numpy`).<br>
+> **Lleuger** — un sol `.exe` de ~25 MB, sense instal·lar res.<br>
 > **Privat** — funciona sense internet i no envia cap dada.<br>
 > **Obert i explicat** — tot (lector FITS, centroide, coordenades, Excel...) està programat a
 > [`codigo/Emillium.py`](codigo/Emillium.py) i comentat pas a pas.
@@ -374,7 +374,7 @@ Está pensado para **astrónomos aficionados**, para **trabajos escolares** o **
 movimientos propios, estrellas dobles, satélites de Júpiter, seguimiento de asteroides y cometas,
 estrellas variables...
 
-> **Ligero** — un solo `.exe` de ~25 MB, sin instalar nada (desde el código solo hace falta `numpy`).<br>
+> **Ligero** — un solo `.exe` de ~25 MB, sin instalar nada.<br>
 > **Privado** — funciona sin internet y no envía ningún dato.<br>
 > **Abierto y explicado** — todo (lector FITS, centroide, coordenadas, Excel...) está programado a mano en
 > [`codigo/Emillium.py`](codigo/Emillium.py) y comentado paso a paso.
