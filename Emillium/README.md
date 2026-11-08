@@ -37,7 +37,7 @@ d'un asteroide...
 > **Senzill** — tres passos, poques opcions i una explicació a cada botó.<br>
 > **Lleuger** — un sol `.exe`, sense instal·lar res (des del codi només cal `numpy`).<br>
 > **Privat** — funciona sense internet i no envia cap dada.<br>
-> **Obert i explicat** — el lector FITS, el gir de la foto i el càlcul del centre estan programats a mà a
+> **Obert i explicat** — el lector FITS, el gir de la foto i el càlcul del centre estan programats a
 > [`codigo/Emillium.py`](codigo/Emillium.py) i comentats pas a pas, sense biblioteques d'astronomia.
 
 ---
@@ -82,7 +82,6 @@ d'un asteroide...
 > Com que el programa no està signat digitalment, la primera vegada Windows pot mostrar
 > «Windows ha protegit l'equip». Prem **Més informació → Executa igualment**.
 
-També pots arrossegar una foto FITS sobre el `.exe` per obrir-la directament.
 
 ### Opció 2 · Des del codi
 
@@ -352,7 +351,7 @@ L'`Emillium.exe` apareix a `codigo/dist/`.
 
 ## Autors i llicència
 
-Fet per **Plutarco Martínez** i **Emilio Ruiz**, amb l'assistència de **Claude Code**.
+Fet per **Plutarco Martínez** i **Emilio Ruiz**.
 
 Distribuït sota la [llicència MIT](LICENSE): el pots fer servir, modificar i compartir lliurement,
 mantenint l'avís de llicència.
@@ -391,15 +390,15 @@ mantenint l'avís de llicència.
 las estrellas en fotos **FITS** con **precisión de centésimas de píxel**. Abres una foto, haces clic en las
 estrellas y obtienes sus coordenadas **X e Y en píxeles**, listas para trabajar con ellas en un Excel.
 
-Está pensado para **trabajos escolares** (como un *treball de recerca*) y prácticas de astronomía:
+Está pensado para **trabajos escolares**, **actividades educativas** y **prácticas de astronomía**:
 comparar la posición de las estrellas entre fotos, estrellas dobles, satélites de Júpiter, movimiento
 de un asteroide...
 
 > **Sencillo** — tres pasos, pocas opciones y una explicación en cada botón.<br>
 > **Ligero** — un solo `.exe`, sin instalar nada (desde el código solo hace falta `numpy`).<br>
 > **Privado** — funciona sin internet y no envía ningún dato.<br>
-> **Abierto y explicado** — el lector FITS, el giro de la foto y el cálculo del centro están programados a
-> mano en [`codigo/Emillium.py`](codigo/Emillium.py) y comentados paso a paso, sin bibliotecas de astronomía.
+> **Abierto y explicado** — el lector FITS, el giro de la foto y el cálculo del centro están programados
+> en [`codigo/Emillium.py`](codigo/Emillium.py) y comentados paso a paso, sin bibliotecas de astronomía.
 
 ---
 
@@ -443,7 +442,6 @@ de un asteroide...
 > Como el programa no está firmado digitalmente, la primera vez Windows puede mostrar
 > «Windows protegió su PC». Pulsa **Más información → Ejecutar de todas formas**.
 
-También puedes arrastrar una foto FITS sobre el `.exe` para abrirla directamente.
 
 ### Opción 2 · Desde el código
 
@@ -715,7 +713,7 @@ El `Emillium.exe` aparece en `codigo/dist/`.
 
 ## Autores y licencia
 
-Hecho por **Plutarco Martínez** y **Emilio Ruiz**, con la asistencia de **Claude Code**.
+Hecho por **Plutarco Martínez** y **Emilio Ruiz**.
 
 Distribuido bajo la [licencia MIT](LICENSE): puedes usarlo, modificarlo y compartirlo libremente,
 manteniendo el aviso de licencia.
