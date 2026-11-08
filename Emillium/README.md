@@ -242,8 +242,8 @@ el cercle de mesura, perquè no arribi a tocar la veïna.
 **5. Quedar-se només amb la llum de l'estrella.** A cada píxel se li resta el fons del cel i, a més,
 el **llindar × σ**. Els píxels que queden per sota de zero no compten. Per què? Perquè a les vores de
 l'estrella la llum és tan feble que es confon amb el soroll, i aquest soroll, que és a l'atzar, mouria
-el centre cap a un costat o cap a l'altre. Fent servir només els píxels on l'estrella destaca de
-veritat, el centre de les estrelles febles passa de tenir un error d'unes 0,4 px a unes 0,05–0,08 px.
+el centre cap a un costat o cap a l'altre. Fent servir només els píxels on l'estrella destaca,
+el centre de les estrelles febles passa de tenir un error d'unes 0,4 px a unes 0,05–0,08 px.
 
 **6. Calcular el centre i afinar-lo.** Amb els píxels que queden dins d'un **cercle** al voltant de
 l'estrella (el *Radi per al centre*), es calcula el centre de massa com a l'exemple. Com que el cercle
@@ -604,7 +604,7 @@ para que no llegue a tocar a la vecina.
 **5. Quedarse solo con la luz de la estrella.** A cada píxel se le resta el fondo del cielo y, además, el
 **umbral × σ**. Los píxeles que quedan por debajo de cero no cuentan. ¿Por qué? Porque en los bordes de
 la estrella la luz es tan débil que se confunde con el ruido, y ese ruido, que es al azar, movería el
-centro hacia un lado o hacia el otro. Usando solo los píxeles donde la estrella destaca de verdad, el
+centro hacia un lado o hacia el otro. Usando solo los píxeles donde la estrella destaca, el
 centro de las estrellas débiles pasa de tener un error de unos 0,4 px a unos 0,05–0,08 px.
 
 **6. Calcular el centro y afinarlo.** Con los píxeles que quedan dentro de un **círculo** alrededor de la
