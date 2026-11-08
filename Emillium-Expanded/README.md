@@ -801,7 +801,7 @@ El `Emillium.exe` aparece en `codigo/dist/`.
 
 ## Autores y licencia
 
-Hecho por **Plutarco Martínez** y **Emilio Ruiz**, con la asistencia de **Claude Code**.
+Hecho por **Plutarco Martínez** y **Emilio Ruiz**.
 
 Distribuido bajo la [licencia MIT](LICENSE): puedes usarlo, modificarlo y compartirlo libremente,
 manteniendo el aviso de licencia.
