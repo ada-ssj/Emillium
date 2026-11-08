@@ -441,7 +441,7 @@ L'`Emillium.exe` apareix a `Emillium1.3/codigo/dist/`. Per a Emillium Expanded, 
 
 ## Autors i llicència
 
-Fet per **Plutarco Martínez** i **Emilio Ruiz**, amb l'assistència de **Claude Code**.
+Fet per **Plutarco Martínez** i **Emilio Ruiz**.
 
 Distribuït sota la [llicència MIT](LICENSE): el pots fer servir, modificar i compartir lliurement,
 mantenint l'avís de llicència.
@@ -893,7 +893,7 @@ El `Emillium.exe` aparece en `Emillium1.3/codigo/dist/`. Para Emillium Expanded,
 
 ## Autores y licencia
 
-Hecho por **Plutarco Martínez** y **Emilio Ruiz**, con la asistencia de **Claude Code**.
+Hecho por **Plutarco Martínez** y **Emilio Ruiz**.
 
 Distribuido bajo la [licencia MIT](LICENSE): puedes usarlo, modificarlo y compartirlo libremente,
 manteniendo el aviso de licencia.
