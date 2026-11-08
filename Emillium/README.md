@@ -28,11 +28,11 @@
   <img src="docs/mesures.png" width="880" alt="Emillium Standard amb quatre estrelles mesurades">
 </p>
 
-**Emillium Standard** és un programa d'escriptori senzill, en català i castellà, per mesurar la posició de
+**Emillium Standard** és un programa d'escriptori senzill en català i castellà, per mesurar la posició de
 les estrelles en fotos **FITS** amb **precisió de centèsimes de píxel**. Obres una foto, fas clic a les
 estrelles i obtens les seves coordenades **X i Y en píxels**, a punt per treballar-les en un Excel.
 
-Està pensat per a **treballs escolars** (com un *treball de recerca*) i pràctiques d'astronomia:
+Està pensat per a **treballs escolars**, **activitats educatives** i **pràctiques d'astronomia**:
 comparar la posició de les estrelles entre fotos, estrelles dobles, satèl·lits de Júpiter, moviment
 d'un asteroide...
 
@@ -77,7 +77,7 @@ d'un asteroide...
 
 ### Opció 1 · Executable per a Windows (recomanat)
 
-1. A l'apartat [**Releases**](../../releases), descarrega l'executable de l'**edició Standard**.
+1. A l'apartat [**Releases**](../../releases), descarrega l'executable **Emillium**
 2. Fes-hi doble clic. No cal instal·lar res.
 
 > [!NOTE]
